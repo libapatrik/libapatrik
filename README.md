@@ -1,7 +1,6 @@
 # Hello, I am Patrik Liba
 
 MSc Applied Mathematics (Financial Engineering) · TU Delft  
-Thesis: AI-assisted model validation for derivatives pricing
 
 ---
 
