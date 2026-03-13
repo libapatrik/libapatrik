@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I am Patrik Liba
 
-<!--
-**libapatrik/libapatrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Applied Mathematics (Financial Engineering) · TU Delft  
+Thesis: AI-assisted model validation for derivatives pricing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- **[Cpp-Option-Pricing](https://github.com/libapatrik/Cpp-Option-Pricing)** — C++ derivatives pricing library: Black-Scholes, Heston, Heston SLV, Dupire, Monte Carlo (QE scheme), FD PDE solvers, SVI/SSVI calibration, Python bindings via pybind11
+- **[Quantitative-Finance-Book](https://github.com/libapatrik/Quantitative-Finance-Book)** — companion quant reference hosted at [libapatrik.github.io](https://libapatrik.github.io)
+
+### Tools
+`C++` `Python` `pybind11` `R` `SQL` `VBA`
+
+### Reach me
+[LinkedIn](https://www.linkedin.com/in/patrik-liba) · libapatrik@github
