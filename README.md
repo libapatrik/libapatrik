@@ -13,4 +13,4 @@ Thesis: AI-assisted model validation for derivatives pricing
 `C++` `Python` `pybind11` `R` `SQL` `VBA`
 
 ### Reach me
-[LinkedIn](https://www.linkedin.com/in/patrik-liba) · libapatrik@github
+[LinkedIn](https://www.linkedin.com/in/patrik-liba) 
